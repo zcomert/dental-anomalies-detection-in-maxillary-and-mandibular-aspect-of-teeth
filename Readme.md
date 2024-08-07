@@ -1,4 +1,6 @@
-# Dental Anomalies Detection in Maxillary and Mandibular Aspect of Teeth using CNN-GRU Models and Local Model Agnostic Explanations
+# Under Review
+
+## Dental Anomalies Detection in Maxillary and Mandibular Aspect of Teeth using CNN-GRU Models and Local Model Agnostic Explanations
 
 The academic study titled "Dental Anomalies Detection in Maxillary and Mandibular Aspect of Teeth using CNN-GRU Models and Local Model Agnostic Explanations" presents the development and implementation of three distinct models. These models aim to accurately detect dental anomalies in both the maxillary and mandibular aspects of teeth by leveraging the capabilities of CNN-GRU architecture. Additionally, the study emphasizes the importance of interpretability and transparency in AI models, incorporating Local Model Agnostic Explanations (LIME) to provide clear insights into the decision-making processes of the developed models.
 
